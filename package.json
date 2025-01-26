@@ -1,0 +1,23 @@
+{
+  "name": "aivazovski_landing",
+  "version": "1.0.0",
+  "description": "landing site for aivazovcki",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artishoc777/Aivazovski_landing.git"
+  },
+  "keywords": [
+    "landing",
+    "Aivazovski"
+  ],
+  "author": "Artur N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artishoc777/Aivazovski_landing/issues"
+  },
+  "homepage": "https://github.com/Artishoc777/Aivazovski_landing#readme"
+}
